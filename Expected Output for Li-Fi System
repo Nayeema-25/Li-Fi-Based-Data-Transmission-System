@@ -1,0 +1,28 @@
+#Expected Output For Li-Fi Based Data Transmission System.
+
+1. MODULATION:
+
+The audio signal was used to modulate the intensity of the LED light.
+
+The LED acted as a high-speed transmitter, blinking rapidly in sync with the sound waves.
+
+
+
+2. RECEPTION & CONVERSION:
+
+A solar panel (or photodetector) captured the modulated light.
+
+It converted the light pulses into electrical signals corresponding to the original audio waveform.
+
+
+
+3. AMPLIFICATION & OUTPUT:
+
+The electrical signals were amplified using a circuit.
+
+The amplified signal was then fed into a speaker, which reproduced the original audio.
+
+
+
+
+
